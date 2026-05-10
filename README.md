@@ -1,6 +1,6 @@
 # ⚡ PM Copilot — AI-Powered PRD Generator
 
-> Turn your product problem into a structured, senior-PM-quality PRD in under 30 seconds.
+> Turn your product problem into a structured, senior-PM-quality PRD in under 60 seconds.
 
 ![PM Copilot](https://img.shields.io/badge/Built%20with-Gemini%20LLM-purple?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square)
