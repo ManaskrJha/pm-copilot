@@ -108,3 +108,34 @@ GEMINI_API_KEY = "your_actual_key_here"
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 💡 How to Use
+
+1. Enter your **Gemini API key** in the input field
+2. Describe your **product problem** in 2-3 sentences
+3. Fill in **user context**, **success metrics**, and **constraints**
+4. Choose your **PRD depth** — Quick, Standard, or Deep Dive
+5. Click **Generate PRD**
+6. Download as TXT or Markdown
+
+---
+
+## 🧠 Why I Built This
+
+I'm a product professional working on B2B enterprise products in FinTech. PRD writing was consistently the most time-consuming part of my workflow — not because the thinking was hard, but because the structure took forever.
+
+I wanted a tool that handles the scaffolding so I could focus on the actual product decisions — the trade-offs, the user empathy, the prioritization.
+
+PM Copilot is that tool. It's opinionated, structured, and built for PMs who think deeply about problems.
+
+---
+
+## 📄 License
+
+MIT — free to use, modify, and distribute.
+
+---
+
+
