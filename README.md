@@ -49,7 +49,6 @@ PM Copilot takes structured product inputs and generates a full PRD including:
 **Input:**
 > "Our mobile banking app loses 60% of users during KYC onboarding. Users abandon when asked to upload multiple documents."
 
-**Output:** A complete 8-section PRD in under 30 seconds — ready to share with your engineering team.
 
 ---
 
